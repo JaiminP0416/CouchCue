@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CouchCue/static/css/main.a209389e.css",
-    "main.js": "/CouchCue/static/js/main.ef74d541.js",
+    "main.js": "/CouchCue/static/js/main.b18a466d.js",
     "index.html": "/CouchCue/index.html",
     "main.a209389e.css.map": "/CouchCue/static/css/main.a209389e.css.map",
-    "main.ef74d541.js.map": "/CouchCue/static/js/main.ef74d541.js.map"
+    "main.b18a466d.js.map": "/CouchCue/static/js/main.b18a466d.js.map"
   },
   "entrypoints": [
     "static/css/main.a209389e.css",
-    "static/js/main.ef74d541.js"
+    "static/js/main.b18a466d.js"
   ]
 }
