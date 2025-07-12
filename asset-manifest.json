@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JaiminP0416/CouchCue/static/css/main.a209389e.css",
-    "main.js": "/JaiminP0416/CouchCue/static/js/main.b675b152.js",
-    "index.html": "/JaiminP0416/CouchCue/index.html",
-    "main.a209389e.css.map": "/JaiminP0416/CouchCue/static/css/main.a209389e.css.map",
-    "main.b675b152.js.map": "/JaiminP0416/CouchCue/static/js/main.b675b152.js.map"
+    "main.css": "/CouchCue/static/css/main.a209389e.css",
+    "main.js": "/CouchCue/static/js/main.b18a466d.js",
+    "index.html": "/CouchCue/index.html",
+    "main.a209389e.css.map": "/CouchCue/static/css/main.a209389e.css.map",
+    "main.b18a466d.js.map": "/CouchCue/static/js/main.b18a466d.js.map"
   },
   "entrypoints": [
     "static/css/main.a209389e.css",
-    "static/js/main.b675b152.js"
+    "static/js/main.b18a466d.js"
   ]
 }
