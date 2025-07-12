@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/JaiminP0416/CouchCue/static/css/main.a209389e.css",
-    "main.js": "/JaiminP0416/CouchCue/static/js/main.3c58b616.js",
+    "main.js": "/JaiminP0416/CouchCue/static/js/main.b675b152.js",
     "index.html": "/JaiminP0416/CouchCue/index.html",
     "main.a209389e.css.map": "/JaiminP0416/CouchCue/static/css/main.a209389e.css.map",
-    "main.3c58b616.js.map": "/JaiminP0416/CouchCue/static/js/main.3c58b616.js.map"
+    "main.b675b152.js.map": "/JaiminP0416/CouchCue/static/js/main.b675b152.js.map"
   },
   "entrypoints": [
     "static/css/main.a209389e.css",
-    "static/js/main.3c58b616.js"
+    "static/js/main.b675b152.js"
   ]
 }
